@@ -1,6 +1,6 @@
 {
   "name": "ささっと交換ツイ",
-  "short_name": "ささ交換",
+  "short_name": "交換ツイ",
   "description": "Twitter交換DM・募集投稿を簡単に作成",
   "start_url": "./index.html",
   "display": "standalone",
@@ -18,4 +18,5 @@
       "type": "image/png"
     }
   ]
+
 }
